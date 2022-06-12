@@ -1,16 +1,30 @@
-# simplenote
+# NoteFire App
 
-A new Flutter project.
+It's simple note app that help you to take note over the day with  **firebase** integration to save you note to cloud. 
 
-## Getting Started
+## Skills
 
-This project is a starting point for a Flutter application.
+ - Fire Store  
+ - CRUD Operations
+ - Auth 
 
-A few resources to get you started if this is your first Flutter project:
+## Some Images
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+|s|s|s|s
+|-|-|-|-
+|![Note App screens](images/Screenshot1.png "1")|![Note App screens](images/Screenshot2.png "2")|![Note App screens](images/Screenshot3.png "3")|![Note App screens](images/Screenshot4.png "4")
+
+
+ 
+
+## UML diagrams
+```mermaid
+graph TB
+A(home screen)  --> B(view note)
+A -->D(add new note)
+B--> C(edit note)
+C-->E(End)
+D-->E(End)
+```
