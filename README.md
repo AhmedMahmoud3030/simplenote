@@ -1,12 +1,12 @@
-# NoteFire App
+# SimpleNote App
 
-It's simple note app that help you to take note over the day with  **firebase** integration to save you note to cloud. 
+It's simple note app that help you to take note over the day .
 
 ## Skills
 
- - Fire Store  
+ - SQFLite  
  - CRUD Operations
- - Auth 
+ - Porvider 
 
 ## Some Images
 
