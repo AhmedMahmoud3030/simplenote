@@ -35,7 +35,7 @@ class NoteCard extends StatelessWidget {
                 title!,
                 style: AppStyle.mainTitle,
                 maxLines: 1,
-                overflow: TextOverflow.fade,
+                overflow: TextOverflow.ellipsis,
               ),
               const SizedBox(
                 height: 4,

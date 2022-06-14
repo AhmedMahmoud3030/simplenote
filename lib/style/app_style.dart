@@ -3,7 +3,7 @@ import 'package:google_fonts/google_fonts.dart';
 
 class AppStyle {
   static Color bgColor = Color(0xffe2e2ff);
-  static Color primaryColor = Color.fromARGB(255, 50, 66, 188);
+  static Color primaryColor = Color(0xFF0B1557);
   static Color secoundaryColor = Color(0xff0065ff);
 
   //card colors

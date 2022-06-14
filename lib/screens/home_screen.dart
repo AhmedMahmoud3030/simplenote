@@ -12,7 +12,6 @@ import 'note_reader.dart';
 
 class HomeScreen extends StatefulWidget {
   static const String routeName = '/';
-
   @override
   State<HomeScreen> createState() => _HomeScreenState();
 }
