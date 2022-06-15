@@ -8,6 +8,7 @@ class AppStyle {
 
   //card colors
   static List<Color> cardsColor = [
+    
     Colors.red.shade100,
     Colors.pink.shade100,
     Colors.blue.shade100,
